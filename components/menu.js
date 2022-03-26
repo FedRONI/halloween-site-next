@@ -12,7 +12,7 @@ export default function Menu() {
                     height="48px"
                 />
                 <div className="logo__text">
-                    Helloween
+                    Halloween
                 </div>
             </div>
             <div className="menu__list">
